@@ -8,17 +8,6 @@
 
 ---
 
-### Стек
-
-| Область | Технологии |
-|---|---|
-| Языки | Python, JavaScript, SQL |
-| Computer Vision | OpenCV, Ultralytics YOLOv8 |
-| LLM | Ollama |
-| Данные | PostgreSQL |
-| Визуализация и интерфейсы | Streamlit, Altair |
-| Инфраструктура | Docker, Git, Vercel |
-
 ### Проекты
 
 | Проект | Описание |
