@@ -6,9 +6,9 @@
 
 </div>
 
-
+<div aling="center">
 **[arphset.tech](https://arphset.tech)**
-
+</div>
 ---
 
 ### Проекты
